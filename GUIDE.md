@@ -11,7 +11,7 @@
 3. Kopiere diesen Text und füge ihn ein:
 
 ```
-curl -fsSL https://gist.githubusercontent.com/Brosi1975/396020ac23b4628fb639419c8deb032c/raw/install.sh | bash
+https://raw.githubusercontent.com/Brosi1975/pi-for-everyone/main/install.sh
 ```
 
 4. Drücke **Enter** und warte bis „Installation abgeschlossen!" erscheint
