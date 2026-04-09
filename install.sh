@@ -72,7 +72,9 @@ echo "================================================"
 echo -e "${GREEN}  Installation abgeschlossen!${NC}"
 echo "================================================"
 echo ""
-echo "Starte Pi mit:    pi"
+curl -fsSL https://raw.githubusercontent.com/Brosi1975/pi-for-everyone/main/pi-starter-tmux.sh -o ~/.pi-starter-tmux.sh
+chmod +x ~/.pi-starter-tmux.sh
+echo "Starte Pi mit:    bash ~/.pi-starter-tmux.sh"
 echo "Modell wechseln:  Ctrl+L"
 echo ""
 
