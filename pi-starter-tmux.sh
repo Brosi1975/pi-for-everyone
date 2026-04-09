@@ -31,7 +31,7 @@ cat > /tmp/pi-hilfe.txt << 'HILFE'
   Druecke Ctrl+L und waehle:
   ollama  kostenlos, lokal
   claude  besser, Abo noetig
-  gemini  kostenlos (Google)
+  gemini  API Key nötig (Google)
 
 ────────────────────────────────
   github.com/Brosi1975
