@@ -36,7 +36,7 @@ Everything runs locally. No API key required. No data leaves your machine.
 Open Terminal and run:
 
 ```bash
-curl -fsSL https://gist.githubusercontent.com/Brosi1975/396020ac23b4628fb639419c8deb032c/raw/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/Brosi1975/pi-for-everyone/main/install.sh | bash
 ```
 
 That's it.
