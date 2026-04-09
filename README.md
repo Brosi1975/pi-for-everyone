@@ -2,7 +2,7 @@
 
 A one-command installer that sets up a free, local AI assistant on any Mac. No cloud. No subscription. No data shared.
 
-Built with [pi-coding-agent](https://github.com/mariozechner/pi-coding-agent) by Mario Zechner @badlogic and [Ollama](https://ollama.com).
+Built with [pi-coding-agent](https://github.com/mariozechner/pi-coding-agent) by Mario Zechner https://github.com/badlogic/pi-mono and [Ollama](https://ollama.com).
 
 ---
 
